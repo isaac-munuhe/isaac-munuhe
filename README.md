@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilson W isaac</h1>
-<h3 align="center">A dynamic and detail-oriented Data Engineer </h3>
+<h3 align="center">A Dynamic and Detail-oriented Data Engineer </h3>
 
 <img align="right" alt="Data Engineering" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -12,6 +12,7 @@
 - 💬 Ask me about **Python, AWS Glue, Docker, TensorFlow and Django**
 
 - 📫 How to reach me **waweruwilson16@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
